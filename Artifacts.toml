@@ -1,0 +1,119 @@
+[[flecs]]
+arch = "aarch64"
+git-tree-sha1 = "87bea9cf81d92d6027a1f0cd27e9bb3dc376e5b8"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "222668978d1d91d254eef7deaa0bdd7fa45519f6ce68c0d6af8b91e49486994d"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.aarch64-linux-gnu.tar.gz"
+[[flecs]]
+arch = "aarch64"
+git-tree-sha1 = "13c03cee6267bdffcba8ff49f1deb3942bab0675"
+libc = "musl"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "6fddb961b45beae3d72deb9f36e569314889b2f50f560bdbbc8a58f4bf828e3d"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.aarch64-linux-musl.tar.gz"
+[[flecs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0fc995f964bf680d8ef42e314785f01e86aec256"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "1792942345b8df5be467eb1a7da2a3014da6ba50d7c0a0a9cb9d926c38ed002a"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.armv6l-linux-gnueabihf.tar.gz"
+[[flecs]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e23e0847daf2538a703b2e6a8c3c51666f19a0e7"
+libc = "musl"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "0d32e8a0a7d00f07dbb725156ea610ede7f271478603f0156c96301738578ed9"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.armv6l-linux-musleabihf.tar.gz"
+[[flecs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "80702f192dbac15f37a881288239905d21140aa3"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "bf23493833d8f0899632d576ab1bf81b63eeee1e1b6cd819994427389e5294d6"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[flecs]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "819fbf4721b29be25154a67e5f06c2b0c0e84b55"
+libc = "musl"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "fcf458c774708fc864f3f48e224a536a8e36fa4d46f492c996e1f21b49fc8abc"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.armv7l-linux-musleabihf.tar.gz"
+[[flecs]]
+arch = "i686"
+git-tree-sha1 = "b832e074c861ec3f43aee47c19cce38c09fa3122"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "5a15cd4f5681ebbcd350a32f6d71ff08347f5fbb652e9c50df4c80a800ccee2e"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.i686-linux-gnu.tar.gz"
+[[flecs]]
+arch = "i686"
+git-tree-sha1 = "58762d330b6845ec97c0036291f1c50c77657510"
+libc = "musl"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "485a3432e17fd0c3e6b729b69c6cc2c598aa638ef4d5b0cabb0ca1314568fa3a"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.i686-linux-musl.tar.gz"
+[[flecs]]
+arch = "i686"
+git-tree-sha1 = "54e9766fc74c9b0d1c77a4ce86e350321cebdf74"
+os = "windows"
+
+    [[flecs.download]]
+    sha256 = "15c1b7b176a02215f0471f6bc95d8246891a327c404c3229ca740f920858e608"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.i686-w64-mingw32.tar.gz"
+[[flecs]]
+arch = "powerpc64le"
+git-tree-sha1 = "f1636ef53f99ff1859128c7a8b965ceb7e341738"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "43a0fa31f2689920bd35d8186ad02554deb7ddc500a16826d4ca788987b4c059"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.powerpc64le-linux-gnu.tar.gz"
+[[flecs]]
+arch = "x86_64"
+git-tree-sha1 = "9985b744b7437a276cf9c5af999ad9f1928db99a"
+libc = "glibc"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "a97afd2b98fb72a24f66a48004e06cae475f25a46b079f88cd97ee36e7036ddb"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.x86_64-linux-gnu.tar.gz"
+[[flecs]]
+arch = "x86_64"
+git-tree-sha1 = "967d1dc39776663fdb3ec8f6f67c980e7cb245d8"
+libc = "musl"
+os = "linux"
+
+    [[flecs.download]]
+    sha256 = "cc437cf773d03df4b4707fab1c353fba974a8a7d83f38dab70c4129d93f930ac"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.x86_64-linux-musl.tar.gz"
+[[flecs]]
+arch = "x86_64"
+git-tree-sha1 = "fda5d30bd689abf9fcaa33bdcaa95d09afa84bb5"
+os = "windows"
+
+    [[flecs.download]]
+    sha256 = "cdbb91bc6d6373b358ed9032e68a7a6cfec0f4ce3a0305f5d511bd43555a65c9"
+    url = "https://github.com/JuliaBinaryWrappers/flecs_jll.jl/releases/download/flecs-v4.0.3+0/flecs.v4.0.3.x86_64-w64-mingw32.tar.gz"
